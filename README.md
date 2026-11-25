@@ -10,10 +10,9 @@
 I'm a passionate Computer Science Engineering student specializing in **Artificial Intelligence and Machine Learning**. I'm interested in **AI/ML, web development, and software engineering**. I enjoy building projects, exploring new technologies, and solving real-world problems through innovative solutions. I'm always eager to learn, improve my skills, and turn ideas into impactful applications.
 
 - 🎓 B.E. in Computer Science (AI & ML)
-- 🔭 Currently working on: **your project name**
-- 🌱 Currently learning: **your skills**
+- 🌱 Currently learning: C, JAVA, PYTHON, SQL
 - 📍 Based in: **Bengaluru, India**
-- 📫 Reach me: **your@email.com**
+- 📫 Reach me: **alvin.abrabam7@gmail.com**
 
 ---
 
